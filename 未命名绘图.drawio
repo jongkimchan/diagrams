@@ -1,9 +1,183 @@
-<mxfile host="app.diagrams.net" modified="2023-12-18T02:55:55.102Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" version="22.1.11" etag="aG-pi-wttYwGeg8NTQXK" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-24T14:04:10.108Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="Iy0jirAcJ6WtLi0MhONF" version="23.1.6" type="github">
   <diagram name="第 1 页" id="ORTG3BduSMmwJ5yzQQCn">
-    <mxGraphModel>
+    <mxGraphModel dx="773" dy="472" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BkDE5Nv37Xod58xa3vtr-21" value="" style="childLayout=tableLayout;recursiveResize=0;shadow=0;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="148" y="356" width="360.14285714285717" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="BkDE5Nv37Xod58xa3vtr-22" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;" vertex="1" parent="BkDE5Nv37Xod58xa3vtr-21">
+          <mxGeometry width="360.14285714285717" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="BkDE5Nv37Xod58xa3vtr-23" value="&lt;font color=&quot;#ff4e3b&quot;&gt;因&lt;/font&gt;" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="BkDE5Nv37Xod58xa3vtr-22">
+          <mxGeometry width="56" height="47" as="geometry">
+            <mxRectangle width="56" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BkDE5Nv37Xod58xa3vtr-24" value="在四海学习" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="BkDE5Nv37Xod58xa3vtr-22">
+          <mxGeometry x="56" width="64" height="47" as="geometry">
+            <mxRectangle width="64" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BkDE5Nv37Xod58xa3vtr-25" value="不在四海学习" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="BkDE5Nv37Xod58xa3vtr-22">
+          <mxGeometry x="120" width="240" height="47" as="geometry">
+            <mxRectangle width="240" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BkDE5Nv37Xod58xa3vtr-26" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;" vertex="1" parent="BkDE5Nv37Xod58xa3vtr-21">
+          <mxGeometry y="47" width="360.14285714285717" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="BkDE5Nv37Xod58xa3vtr-27" value="&lt;font color=&quot;#ff4e3b&quot;&gt;果&lt;/font&gt;" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="BkDE5Nv37Xod58xa3vtr-26">
+          <mxGeometry width="56" height="46" as="geometry">
+            <mxRectangle width="56" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BkDE5Nv37Xod58xa3vtr-28" value="成绩好" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="BkDE5Nv37Xod58xa3vtr-26">
+          <mxGeometry x="56" width="64" height="46" as="geometry">
+            <mxRectangle width="64" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BkDE5Nv37Xod58xa3vtr-29" value="成绩差" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="BkDE5Nv37Xod58xa3vtr-26">
+          <mxGeometry x="120" width="240" height="46" as="geometry">
+            <mxRectangle width="240" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BkDE5Nv37Xod58xa3vtr-37" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="148" y="397.5" width="179" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="BkDE5Nv37Xod58xa3vtr-38" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="356" width="10" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="BkDE5Nv37Xod58xa3vtr-49" value="异因异果，能支持在四海学习成绩好" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#2b75c5;" vertex="1" parent="1">
+          <mxGeometry x="148" y="319" width="205" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BkDE5Nv37Xod58xa3vtr-73" value="" style="childLayout=tableLayout;recursiveResize=0;shadow=0;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="377" y="356" width="200.57142857142856" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="BkDE5Nv37Xod58xa3vtr-74" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;" vertex="1" parent="BkDE5Nv37Xod58xa3vtr-73">
+          <mxGeometry width="200.57142857142856" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="BkDE5Nv37Xod58xa3vtr-75" value="&lt;font color=&quot;#ff4e3b&quot;&gt;因&lt;/font&gt;" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="BkDE5Nv37Xod58xa3vtr-74">
+          <mxGeometry width="56" height="47" as="geometry">
+            <mxRectangle width="56" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BkDE5Nv37Xod58xa3vtr-76" value="在四海学习" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="BkDE5Nv37Xod58xa3vtr-74">
+          <mxGeometry x="56" width="64" height="47" as="geometry">
+            <mxRectangle width="64" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BkDE5Nv37Xod58xa3vtr-77" value="不在四海学习" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="BkDE5Nv37Xod58xa3vtr-74">
+          <mxGeometry x="120" width="81" height="47" as="geometry">
+            <mxRectangle width="81" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BkDE5Nv37Xod58xa3vtr-78" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;" vertex="1" parent="BkDE5Nv37Xod58xa3vtr-73">
+          <mxGeometry y="47" width="200.57142857142856" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="BkDE5Nv37Xod58xa3vtr-79" value="&lt;font color=&quot;#ff4e3b&quot;&gt;果&lt;/font&gt;" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="BkDE5Nv37Xod58xa3vtr-78">
+          <mxGeometry width="56" height="46" as="geometry">
+            <mxRectangle width="56" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BkDE5Nv37Xod58xa3vtr-80" value="成绩好" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="BkDE5Nv37Xod58xa3vtr-78">
+          <mxGeometry x="56" width="64" height="46" as="geometry">
+            <mxRectangle width="64" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BkDE5Nv37Xod58xa3vtr-81" value="成绩好" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="BkDE5Nv37Xod58xa3vtr-78">
+          <mxGeometry x="120" width="81" height="46" as="geometry">
+            <mxRectangle width="81" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BkDE5Nv37Xod58xa3vtr-82" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="377" y="397.5" width="179" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="BkDE5Nv37Xod58xa3vtr-83" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="494" y="356" width="10" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="BkDE5Nv37Xod58xa3vtr-84" value="异因同果，能质疑在四海学习成绩好" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#2b75c5;" vertex="1" parent="1">
+          <mxGeometry x="377" y="319" width="205" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BkDE5Nv37Xod58xa3vtr-85" value="" style="childLayout=tableLayout;recursiveResize=0;shadow=0;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="262" y="517" width="200.57142857142856" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="BkDE5Nv37Xod58xa3vtr-86" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;" vertex="1" parent="BkDE5Nv37Xod58xa3vtr-85">
+          <mxGeometry width="200.57142857142856" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="BkDE5Nv37Xod58xa3vtr-87" value="&lt;font color=&quot;#ff4e3b&quot;&gt;因&lt;/font&gt;" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="BkDE5Nv37Xod58xa3vtr-86">
+          <mxGeometry width="56" height="47" as="geometry">
+            <mxRectangle width="56" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BkDE5Nv37Xod58xa3vtr-88" value="在四海学习" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="BkDE5Nv37Xod58xa3vtr-86">
+          <mxGeometry x="56" width="64" height="47" as="geometry">
+            <mxRectangle width="64" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BkDE5Nv37Xod58xa3vtr-89" value="在四海学习" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="BkDE5Nv37Xod58xa3vtr-86">
+          <mxGeometry x="120" width="81" height="47" as="geometry">
+            <mxRectangle width="81" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BkDE5Nv37Xod58xa3vtr-90" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;" vertex="1" parent="BkDE5Nv37Xod58xa3vtr-85">
+          <mxGeometry y="47" width="200.57142857142856" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="BkDE5Nv37Xod58xa3vtr-91" value="&lt;font color=&quot;#ff4e3b&quot;&gt;果&lt;/font&gt;" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="BkDE5Nv37Xod58xa3vtr-90">
+          <mxGeometry width="56" height="46" as="geometry">
+            <mxRectangle width="56" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BkDE5Nv37Xod58xa3vtr-92" value="成绩好" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="BkDE5Nv37Xod58xa3vtr-90">
+          <mxGeometry x="56" width="64" height="46" as="geometry">
+            <mxRectangle width="64" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BkDE5Nv37Xod58xa3vtr-93" value="成绩差" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="BkDE5Nv37Xod58xa3vtr-90">
+          <mxGeometry x="120" width="81" height="46" as="geometry">
+            <mxRectangle width="81" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BkDE5Nv37Xod58xa3vtr-94" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="262" y="558.5" width="179" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="BkDE5Nv37Xod58xa3vtr-95" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="379" y="517" width="10" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="BkDE5Nv37Xod58xa3vtr-96" value="同因异果，能质疑在四海学习成绩好" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#2b75c5;" vertex="1" parent="1">
+          <mxGeometry x="262" y="480" width="205" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BkDE5Nv37Xod58xa3vtr-109" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="209" y="354.5" width="43" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="BkDE5Nv37Xod58xa3vtr-110" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="284" y="354.5" width="43" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="BkDE5Nv37Xod58xa3vtr-111" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="287" y="404" width="43" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="BkDE5Nv37Xod58xa3vtr-112" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="213" y="407.5" width="43" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="BkDE5Nv37Xod58xa3vtr-113" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="441" y="354.5" width="43" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="BkDE5Nv37Xod58xa3vtr-114" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="516" y="354.5" width="43" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="BkDE5Nv37Xod58xa3vtr-116" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="362.5" y="517" width="43" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="BkDE5Nv37Xod58xa3vtr-117" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="568.5" width="43" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="BkDE5Nv37Xod58xa3vtr-118" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="392" y="567" width="43" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="BkDE5Nv37Xod58xa3vtr-119" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="477.5" y="407.5" width="43" height="43" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
